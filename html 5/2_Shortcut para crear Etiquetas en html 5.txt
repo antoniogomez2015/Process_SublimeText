@@ -1,0 +1,57 @@
+
+
+
+Sublime Text
+
+
+
+Uso básico de Sublime Text 2
+
+	https://www.youtube.com/watch?v=9RQlsuGAcCM
+
+
+	
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+---------------------------------------------------------------------------------------------------------------
+
+
+
+Shortcut para crear clases en html 5:
+_____________________________________
+
+
+
+	_en un documento html 5:
+
+
+		<!DOCTYPE html>
+		<html lang="en">
+		<head>
+			<meta charset="UTF-8">
+			<title>Document</title>
+		</head>
+		<body>
+		
+		</body>
+		</html>
+
+
+
+	--------------------------------------------------------------------------------------------------------
+
+
+	_tenemos la posibilidad de crear cualquier etiqueta html de forma automática a través, de sublime text
+
+	para ésto basta con sólo escribir el nombre de la etiqueta ó tag y, a continuación hacer "tabulador", ej:
+
+
+		_"h1", y a continuación aplicamos "tabulador", así, generará el siguiente código:
+
+		_"<h1></h1>", de forma automática y así, podremos hacer para el resto de etiquetas html
+
+
+
+

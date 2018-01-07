@@ -1,0 +1,51 @@
+
+
+
+Sublime Text
+
+
+
+Uso básico de Sublime Text 2
+
+	https://www.youtube.com/watch?v=9RQlsuGAcCM
+
+
+	
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+---------------------------------------------------------------------------------------------------------------
+
+
+
+Crear documento html 5:
+_______________________
+
+
+	_primero debemos crear un nuevo documento y guardarlo con la extensión ".html", para que así, sublime
+
+	text, lo reconozca como un documento html 5
+
+
+	_luego escribimos en la primera línea del documento lo siguiente: "html:5", y a continuación hacemos 
+
+	"Tabulador"
+
+
+	_de ésta manera sublime text, nos generará la siguiente extructura:
+
+
+		<!DOCTYPE html>
+		<html lang="en">
+		<head>
+			<meta charset="UTF-8">
+			<title>Document</title>
+		</head>
+		<body>
+		
+		</body>
+		</html>
+
+
+

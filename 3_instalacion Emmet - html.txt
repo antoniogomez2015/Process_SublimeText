@@ -1,0 +1,34 @@
+
+
+
+Sublime Text
+
+
+
+Uso básico de Sublime Text 2
+
+	https://www.youtube.com/watch?v=9RQlsuGAcCM
+
+
+	
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+---------------------------------------------------------------------------------------------------------------
+
+
+
+Emmet:
+______
+
+
+	_éste es un empaquetado que nos permitirá la generación de html, css, de forma práctica
+
+
+	_para ésto abrimos el filter "control + shift + P", y buscamos "Emmet", y procedemos ha instalarlos
+
+	haciendo "Enter", sobre éste
+
+
+
